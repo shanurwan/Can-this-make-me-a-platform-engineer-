@@ -9,6 +9,6 @@
 - Topic = Devops
 - Personal rating = 10/10
 - Comment = Very addictive and easy to digest. Most importantly directly real world applicable. He even guide on jira ticket and real world work structure, I feel like wanna replace his youtube as my internship. If you are someone with no mentor like me, this is your goldmine.
-- Note: Monthly subscription available at only RM15/mth (include tax). Contain interview guide, resume, project selection guide based on level, linkedin guide, 24 hr discord support, open source contributor guide, community builder guide, career gap guide, tool selection , AIOps and learning guide.
+- Note: Monthly subscription available at only RM15/mth (include tax). Contain interview guide, how to showcase devops in resume, project selection guide based on level, linkedin guide, 24 hr doubt clearing discord support, open source contributor guide, community builder guide, career gap guide, tool selection , AIOps and learning guide.
 
 2. 
