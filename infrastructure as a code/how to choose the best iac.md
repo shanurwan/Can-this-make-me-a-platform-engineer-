@@ -5,3 +5,5 @@
 2. Scripting-based tools like Pulumi (with Python/TS) and CDK offer full programming capabilities for dynamic infrastructure.
 
 3. Cloud-specific tools like AWS CloudFormation, Azure Bicep, and Google Deployment Manager are tightly coupled to their respective platforms.
+
+
